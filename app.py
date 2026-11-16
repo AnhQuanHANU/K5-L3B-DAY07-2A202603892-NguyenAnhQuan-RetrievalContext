@@ -196,7 +196,7 @@ if "messages" not in st.session_state:
     ]
 
 # Display message history
-for msg in st.session_state["messages"]:
+for msg_idx, msg in enumerate(st.session_state["messages"]):
     with st.chat_message(msg["role"]):
         st.markdown(msg["content"])
         if msg.get("citations"):
@@ -208,11 +208,11 @@ for msg in st.session_state["messages"]:
             st.markdown(f"<span class='{st_class}'>{st_text}</span>", unsafe_allow_html=True)
         if msg.get("events"):
             with st.expander("🔎 Chi tiết tra cứu (Trace & Context)"):
-                for e in msg["events"]:
+                for e_idx, e in enumerate(msg["events"]):
                     if e.get("event") == "search":
                         st.markdown(f"**Query:** `{e.get('query')}`")
                         st.markdown(f"**Context IDs:** `{e.get('context_ids')}`")
-                        st.text_area("Packed Context", e.get("context", ""), height=150, disabled=True, key=f"ctx_{msg['content'][:15]}")
+                        st.text_area("Packed Context", e.get("context", ""), height=150, disabled=True, key=f"ctx_hist_{msg_idx}_{e_idx}")
 
 # Handle query from input box or sample buttons
 user_query = st.chat_input("Nhập câu hỏi của bạn về Điều lệ Vinamilk...")
@@ -253,13 +253,14 @@ if user_query:
         st_text = "Đã trả lời có căn cứ" if status == "answered" else "Từ chối (Không đủ bằng chứng)"
         st.markdown(f"<span class='{st_class}'>{st_text}</span>", unsafe_allow_html=True)
 
+        cur_idx = len(st.session_state["messages"])
         if events:
             with st.expander("🔎 Chi tiết tra cứu (Trace & Context)"):
-                for e in events:
+                for e_idx, e in enumerate(events):
                     if e.get("event") == "search":
                         st.markdown(f"**Query:** `{e.get('query')}`")
                         st.markdown(f"**Context IDs:** `{e.get('context_ids')}`")
-                        st.text_area("Packed Context", e.get("context", ""), height=150, disabled=True)
+                        st.text_area("Packed Context", e.get("context", ""), height=150, disabled=True, key=f"ctx_cur_{cur_idx}_{e_idx}")
 
         # Save to history
         st.session_state["messages"].append({
@@ -269,3 +270,4 @@ if user_query:
             "status": status,
             "events": events,
         })
+
