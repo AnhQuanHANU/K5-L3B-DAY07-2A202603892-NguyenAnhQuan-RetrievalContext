@@ -1,0 +1,271 @@
+[
+  {
+    "id": "q01",
+    "split": "dev",
+    "question": "Tên viết tắt của Công ty Cổ phần Sữa Việt Nam là gì?",
+    "expected_answer": "VINAMILK",
+    "gold": [
+      {
+        "source_id": "vinamilk_charter_2026",
+        "page": 7,
+        "evidence": "Tên Công Ty viết tắt là: VINAMILK"
+      }
+    ]
+  },
+  {
+    "id": "q02",
+    "split": "dev",
+    "question": "Trụ sở chính của Vinamilk được đặt tại địa chỉ nào?",
+    "expected_answer": "10 Tân Trào, Phường Tân Mỹ, Thành phố Hồ Chí Minh, Việt Nam",
+    "gold": [
+      {
+        "source_id": "vinamilk_charter_2026",
+        "page": 7,
+        "evidence": "Địa chỉ: 10 Tân Trào, Phường Tân Mỹ, Thành phố Hồ Chí Minh, Việt Nam"
+      }
+    ]
+  },
+  {
+    "id": "q03",
+    "split": "dev",
+    "question": "Chức danh nào là người đại diện theo pháp luật của Công ty Vinamilk?",
+    "expected_answer": "Tổng Giám đốc",
+    "gold": [
+      {
+        "source_id": "vinamilk_charter_2026",
+        "page": 8,
+        "evidence": "Tổng Giám đốc là \nngười đại diện theo pháp luật của Công Ty"
+      }
+    ]
+  },
+  {
+    "id": "q04",
+    "split": "dev",
+    "question": "Mệnh giá của một cổ phần của Công ty Vinamilk là bao nhiêu tiền?",
+    "expected_answer": "10.000 (mười nghìn) đồng/cổ phần",
+    "gold": [
+      {
+        "source_id": "vinamilk_charter_2026",
+        "page": 9,
+        "evidence": "Mệnh giá của cổ phần là 10.000 (mười nghìn) đồng/cổ phần"
+      }
+    ]
+  },
+  {
+    "id": "q05",
+    "split": "dev",
+    "question": "Cổ đông sở hữu tỷ lệ cổ phiếu có quyền biểu quyết từ bao nhiêu phần trăm trở lên thì được coi là Cổ Đông Lớn?",
+    "expected_answer": "Từ 5% trở lên số cổ phiếu có quyền biểu quyết",
+    "gold": [
+      {
+        "source_id": "vinamilk_charter_2026",
+        "page": 6,
+        "evidence": "“Cổ Đông Lớn” là Cổ Đông sở hữu từ 5% trở lên số cổ phiếu có quyền bi"
+      }
+    ]
+  },
+  {
+    "id": "q06",
+    "split": "dev",
+    "question": "Theo mô hình cơ cấu tổ chức và quản trị của Vinamilk, Ủy Ban Kiểm Toán trực thuộc cơ quan nào?",
+    "expected_answer": "Hội đồng quản trị",
+    "gold": [
+      {
+        "source_id": "vinamilk_charter_2026",
+        "page": 10,
+        "evidence": "Cơ cấu tổ chức quản lý, quản trị và kiểm soát của Công Ty bao gồm"
+      }
+    ]
+  },
+  {
+    "id": "q07",
+    "split": "dev",
+    "question": "Cổ đông phổ thông của Vinamilk có nghĩa vụ tuân thủ các quy định nào của công ty?",
+    "expected_answer": "Tuân thủ Điều lệ và Quy chế quản trị công ty",
+    "gold": [
+      {
+        "source_id": "vinamilk_charter_2026",
+        "page": 13,
+        "evidence": "Tuân thủ Điều Lệ này và Quy Chế Quản Trị Công Ty"
+      }
+    ]
+  },
+  {
+    "id": "q08",
+    "split": "dev",
+    "question": "Hội đồng quản trị phải triệu tập họp Đại hội đồng cổ đông bất thường khi nào vì lợi ích công ty?",
+    "expected_answer": "Khi Hội đồng quản trị xét thấy cần thiết vì lợi ích của Công ty",
+    "gold": [
+      {
+        "source_id": "vinamilk_charter_2026",
+        "page": 15,
+        "evidence": "Hội đồng quản trị phải triệu tập cuộc họp Đại hội đồng cổ đông bất thường trong cá"
+      }
+    ]
+  },
+  {
+    "id": "q09",
+    "split": "dev",
+    "question": "Đại hội đồng cổ đông quyết định mức cổ tức hàng năm cho mỗi loại cổ phần dựa trên đề nghị của ai?",
+    "expected_answer": "Không cao hơn mức mà Hội đồng quản trị đề nghị",
+    "gold": [
+      {
+        "source_id": "vinamilk_charter_2026",
+        "page": 16,
+        "evidence": "Mức cổ tức thanh toán hàng năm cho mỗi loại cổ phần phù hợp với Luật Do"
+      }
+    ]
+  },
+  {
+    "id": "q10",
+    "split": "dev",
+    "question": "Người được ủy quyền tham dự Đại hội đồng cổ đông phải nộp giấy tờ gì khi đăng ký dự họp?",
+    "expected_answer": "Văn bản ủy quyền",
+    "gold": [
+      {
+        "source_id": "vinamilk_charter_2026",
+        "page": 18,
+        "evidence": "Người Được Ủy Quyền Dự Họp"
+      }
+    ]
+  },
+  {
+    "id": "q11",
+    "split": "dev",
+    "question": "Cuộc họp Đại hội đồng cổ đông triệu tập lần thứ nhất được tiến hành khi có số cổ đông tham dự đại diện ít nhất bao nhiêu phần trăm tổng số cổ phần có quyền biểu quyết?",
+    "expected_answer": "Ít nhất sáu mươi lăm phần trăm (65%)",
+    "gold": [
+      {
+        "source_id": "vinamilk_charter_2026",
+        "page": 20,
+        "evidence": "Cuộc họp Đại hội đồng cổ đông được tiến hành khi có số Cổ Đông và những Ng"
+      }
+    ]
+  },
+  {
+    "id": "q12",
+    "split": "dev",
+    "question": "Năm tài chính của Vinamilk bắt đầu và kết thúc vào những ngày nào trong năm?",
+    "expected_answer": "Bắt đầu từ ngày đầu tiên của tháng Một và kết thúc vào ngày 31 tháng Mười Hai cùng năm",
+    "gold": [
+      {
+        "source_id": "vinamilk_charter_2026",
+        "page": 42,
+        "evidence": "Năm tài chính của Công Ty bắt đầu từ ngày đầu tiên của tháng Một hàng năm và k"
+      }
+    ]
+  },
+  {
+    "id": "q13",
+    "split": "dev",
+    "question": "Tỷ lệ trích từ lợi nhuận sau thuế vào Quỹ khen thưởng, phúc lợi hàng năm của Vinamilk là bao nhiêu?",
+    "expected_answer": "Mười phần trăm (10%)",
+    "gold": [
+      {
+        "source_id": "vinamilk_charter_2026",
+        "page": 42,
+        "evidence": "Hàng năm, Công Ty sẽ phải trích từ lợi nhuận sau thuế với tỷ lệ mười phần trăm"
+      }
+    ]
+  },
+  {
+    "id": "q14",
+    "split": "dev",
+    "question": "Theo Chương VII về Hội đồng quản trị, Hội đồng quản trị quyết định thông qua các hợp đồng, giao dịch lớn có giá trị từ bao nhiêu phần trăm tổng giá trị tài sản?",
+    "expected_answer": "Bằng hoặc lớn hơn ba mươi lăm phần trăm (35%) tổng giá trị tài sản ghi trong báo cáo tài chính gần nhất (trừ các trường hợp thuộc ĐHĐCĐ)",
+    "gold": [
+      {
+        "source_id": "vinamilk_charter_2026",
+        "page": 27,
+        "evidence": "Hội đồng quản trị quyết định thông qua các hợp đồng, giao dịch lớn của Công"
+      }
+    ],
+    "filter": {
+      "chapter": "Chương VII"
+    }
+  },
+  {
+    "id": "q15",
+    "split": "dev",
+    "question": "Theo Phụ lục 1 về danh mục ngành nghề, mã ngành kinh doanh chính về chế biến sữa và các sản phẩm từ sữa của Vinamilk là gì?",
+    "expected_answer": "1050 (Chính)",
+    "gold": [
+      {
+        "source_id": "vinamilk_charter_2026",
+        "page": 47,
+        "evidence": "1050 (Chính) Chế biến sữa và các sản phẩm từ sữa Chi tiết: Sản xuất sữa hộp, sữa bột, bột dinh dưỡng và các sản phẩm từ sữa khác"
+      }
+    ],
+    "filter": {
+      "chapter": "Phụ lục 1"
+    }
+  },
+  {
+    "id": "q16",
+    "split": "test",
+    "question": "Nếu hòa giải tranh chấp nội bộ không đạt được trong 45 ngày, bên nào cũng có thể đưa ra giải quyết tại tổ chức trọng tài nào?",
+    "expected_answer": "Trung tâm Trọng tài Quốc tế Việt Nam (“VIAC”)",
+    "gold": [
+      {
+        "source_id": "vinamilk_charter_2026",
+        "page": 46,
+        "evidence": "bất cứ bên nào cũng có thể đưa tranh"
+      }
+    ]
+  },
+  {
+    "id": "q17",
+    "split": "test",
+    "question": "Điều lệ này của Công ty Vinamilk có hiệu lực thi hành kể từ ngày nào?",
+    "expected_answer": "Ngày 22/04/2026",
+    "gold": [
+      {
+        "source_id": "vinamilk_charter_2026",
+        "page": 46,
+        "evidence": "Điều Lệ này có hiệu lực kể từ ngày 22/04/2026"
+      }
+    ]
+  },
+  {
+    "id": "q18",
+    "split": "test",
+    "question": "Họ và tên của Tổng Giám đốc ký tên tại trang cuối bản Điều lệ của Công ty Vinamilk là gì?",
+    "expected_answer": "MAI KIỀU LIÊN",
+    "gold": [
+      {
+        "source_id": "vinamilk_charter_2026",
+        "page": 46,
+        "evidence": "Điều 51. Chữ ký của Tổng Giám đốc"
+      }
+    ]
+  },
+  {
+    "id": "q19",
+    "split": "test",
+    "question": "Cơ quan nào trong công ty có thẩm quyền quyết định con dấu chính thức của Vinamilk?",
+    "expected_answer": "Hội đồng quản trị",
+    "gold": [
+      {
+        "source_id": "vinamilk_charter_2026",
+        "page": 44,
+        "evidence": "Hội đồng quản trị quyết định con dấu chính thức của Công Ty và các Đơn Vị Trực"
+      }
+    ]
+  },
+  {
+    "id": "q20",
+    "split": "test",
+    "question": "Theo Phụ lục 1 về ngành nghề, mã ngành của hoạt động trồng cây hàng năm khác của Công ty là bao nhiêu?",
+    "expected_answer": "0119",
+    "gold": [
+      {
+        "source_id": "vinamilk_charter_2026",
+        "page": 47,
+        "evidence": "1 0119 Trồng cây hàng năm khác"
+      }
+    ],
+    "filter": {
+      "chapter": "Phụ lục 1"
+    }
+  }
+]

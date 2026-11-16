@@ -1,0 +1,104 @@
+{
+  "dev_methods": {
+    "lexical": {
+      "n": 15,
+      "hit1": 11,
+      "hit1_ratio": "11/15",
+      "hit1_pct": 73.3,
+      "hit3": 14,
+      "hit3_ratio": "14/15",
+      "hit3_pct": 93.3,
+      "context_hit": 0,
+      "context_hit_ratio": "0/15",
+      "context_hit_pct": 0.0,
+      "total_time_sec": 0.01,
+      "avg_ms": 0.54
+    },
+    "dense": {
+      "n": 15,
+      "hit1": 10,
+      "hit1_ratio": "10/15",
+      "hit1_pct": 66.7,
+      "hit3": 11,
+      "hit3_ratio": "11/15",
+      "hit3_pct": 73.3,
+      "context_hit": 0,
+      "context_hit_ratio": "0/15",
+      "context_hit_pct": 0.0,
+      "total_time_sec": 0.01,
+      "avg_ms": 0.66
+    },
+    "hybrid": {
+      "n": 15,
+      "hit1": 10,
+      "hit1_ratio": "10/15",
+      "hit1_pct": 66.7,
+      "hit3": 14,
+      "hit3_ratio": "14/15",
+      "hit3_pct": 93.3,
+      "context_hit": 0,
+      "context_hit_ratio": "0/15",
+      "context_hit_pct": 0.0,
+      "total_time_sec": 0.02,
+      "avg_ms": 1.28
+    },
+    "imp1_dense_1500": {
+      "n": 15,
+      "hit1": 10,
+      "hit1_ratio": "10/15",
+      "hit1_pct": 66.7,
+      "hit3": 11,
+      "hit3_ratio": "11/15",
+      "hit3_pct": 73.3,
+      "context_hit": 10,
+      "context_hit_ratio": "10/15",
+      "context_hit_pct": 66.7,
+      "total_time_sec": 0.01,
+      "avg_ms": 0.59
+    },
+    "imp2_hybrid_1500": {
+      "n": 15,
+      "hit1": 10,
+      "hit1_ratio": "10/15",
+      "hit1_pct": 66.7,
+      "hit3": 14,
+      "hit3_ratio": "14/15",
+      "hit3_pct": 93.3,
+      "context_hit": 10,
+      "context_hit_ratio": "10/15",
+      "context_hit_pct": 66.7,
+      "total_time_sec": 0.02,
+      "avg_ms": 1.26
+    }
+  },
+  "test": {
+    "baseline_dense_800": {
+      "n": 5,
+      "hit1": 2,
+      "hit1_ratio": "2/5",
+      "hit1_pct": 40.0,
+      "hit3": 2,
+      "hit3_ratio": "2/5",
+      "hit3_pct": 40.0,
+      "context_hit": 0,
+      "context_hit_ratio": "0/5",
+      "context_hit_pct": 0.0,
+      "total_time_sec": 0.0,
+      "avg_ms": 0.67
+    },
+    "chosen_hybrid_1500": {
+      "n": 5,
+      "hit1": 2,
+      "hit1_ratio": "2/5",
+      "hit1_pct": 40.0,
+      "hit3": 5,
+      "hit3_ratio": "5/5",
+      "hit3_pct": 100.0,
+      "context_hit": 2,
+      "context_hit_ratio": "2/5",
+      "context_hit_pct": 40.0,
+      "total_time_sec": 0.01,
+      "avg_ms": 1.38
+    }
+  }
+}

@@ -1,0 +1,447 @@
+[
+  {
+    "query_id": "q16",
+    "status": "answered",
+    "answer": "Nếu không có quyết định hòa giải nào đạt được trong vòng bốn mươi lăm (45) ngày từ khi có thông báo tranh chấp của một bên, bất cứ bên nào cũng có thể đưa tranh chấp đó ra giải quyết tại Trung tâm Trọng tài Quốc tế Việt Nam (“VIAC”) theo Quy tắc tố tụng trọng tài của Trung tâm này [B_vinamilk_charter_2026_p46_c000].",
+    "citations": [
+      "B_vinamilk_charter_2026_p46_c000"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "Nếu hòa giải tranh chấp nội bộ không đạt được trong 45 ngày, bên nào cũng có thể đưa ra giải quyết tại tổ chức trọng tài nào?",
+        "filter": null,
+        "results": [
+          {
+            "id": "B_vinamilk_charter_2026_p46_c000",
+            "text": "46 \n \n2. Nếu không có quyết định hoà giải nào đạt được trong vòng bốn mươi lăm (45) ngày \ntừ khi có thông báo tranh chấp của một bên, bất cứ bên nào cũng có thể đưa tranh \nchấp đó ra giải quyết tại Trung tâm Trọng tài Quốc tế Việt Nam (“VIAC”) theo Quy \ntắc tố tụng trọng tài của Trung tâm này. 3. Mỗi bên sẽ tự chịu chi phí của mình có liên quan tới thủ tục thương lượng và hoà giải. Các chi phí của trọng tài sẽ do hội đồng trọng tài quyết định bên nào phải chịu. XIX. BỔ SUNG VÀ SỬA ĐỔI ĐIỀU LỆ \nĐiều 49. Bổ sung và sửa đổi Điều Lệ \nMọi sự bổ sung hay sửa đổi bản Điều Lệ này phải được lập dưới hình thức một dự \nthảo để Đại hội đồng cổ đông thông qua. Trong trường hợp có những quy định của Pháp \nLuật có liên quan đến hoạt động của Công Ty chưa được đề cập trong bản Điều Lệ này \nhoặc trong trường hợp có những quy định mới của Pháp Luật khác với những điều khoản \ntrong Điều Lệ này thì những quy định của Pháp Luật đó đương nhiên được áp dụng và điều \nchỉnh hoạt động của Công Ty. XX.",
+            "source_id": "vinamilk_charter_2026",
+            "source": "data/vinamilk_charter_2026.pdf",
+            "page": 46,
+            "metadata": {
+              "chapter": "Chương I",
+              "strategy": "C"
+            },
+            "score": 0.03278688524590164,
+            "strategy": "hybrid_rrf"
+          },
+          {
+            "id": "B_vinamilk_charter_2026_p45_c002",
+            "text": "Nếu tranh chấp \nliên quan tới Hội đồng quản trị hay Chủ tịch Hội đồng quản trị, bất cứ bên nào \ncũng có thể yêu cầu chỉ định một chuyên gia độc lập để hành động với tư cách \nlà trọng tài cho quá trình giải quyết tranh chấp.",
+            "source_id": "vinamilk_charter_2026",
+            "source": "data/vinamilk_charter_2026.pdf",
+            "page": 45,
+            "metadata": {
+              "chapter": "Chương I",
+              "strategy": "C"
+            },
+            "score": 0.03225806451612903,
+            "strategy": "hybrid_rrf"
+          },
+          {
+            "id": "B_vinamilk_charter_2026_p45_c001",
+            "text": "Số dư còn lại sau khi đã thanh toán mọi khoản nợ từ mục (a) đến (e) trên đây sẽ \nđược phân chia cho các Cổ Đông. Các cổ phần ưu đãi được ưu tiên thanh toán \ntrước (nếu có). XVIII. GIẢI QUYẾT TRANH CHẤP NỘI BỘ \nĐiều 48. Giải quyết tranh chấp nội bộ \n1. Khi phát sinh tranh chấp hay khiếu nại có liên quan tới công việc của Công Ty hay \ntới quyền của các Cổ Đông phát sinh từ Điều Lệ này hay từ bất cứ quyền hoặc nghĩa \nvụ do Luật Doanh Nghiệp hay các luật khác hoặc các quy định hành chính quy định, \ngiữa: \na. Cổ Đông với Công Ty; hoặc \nb. Cổ Đông với Hội đồng quản trị, Tổng Giám đốc hay Giám đốc Điều Hành; \nCác bên liên quan sẽ cố gắng giải quyết tranh chấp đó thông qua hoà giải. Trừ \ntrường hợp tranh chấp liên quan tới Hội đồng quản trị hay Chủ tịch Hội đồng \nquản trị, Chủ tịch Hội đồng quản trị sẽ chủ trì việc giải quyết tranh chấp và sẽ \nyêu cầu mỗi bên trình bày các yếu tố thực tiễn liên quan đến tranh chấp trong \nvòng mười (10) ngày làm việc kể từ ngày tranh chấp phát sinh.",
+            "source_id": "vinamilk_charter_2026",
+            "source": "data/vinamilk_charter_2026.pdf",
+            "page": 45,
+            "metadata": {
+              "chapter": "Chương I",
+              "strategy": "C"
+            },
+            "score": 0.03149801587301587,
+            "strategy": "hybrid_rrf"
+          }
+        ],
+        "context": "[B_vinamilk_charter_2026_p46_c000 | data/vinamilk_charter_2026.pdf | page 46]\n46 \n \n2. Nếu không có quyết định hoà giải nào đạt được trong vòng bốn mươi lăm (45) ngày \ntừ khi có thông báo tranh chấp của một bên, bất cứ bên nào cũng có thể đưa tranh \nchấp đó ra giải quyết tại Trung tâm Trọng tài Quốc tế Việt Nam (“VIAC”) theo Quy \ntắc tố tụng trọng tài của Trung tâm này. 3. Mỗi bên sẽ tự chịu chi phí của mình có liên quan tới thủ tục thương lượng và hoà giải. Các chi phí của trọng tài sẽ do hội đồng trọng tài quyết định bên nào phải chịu. XIX. BỔ SUNG VÀ SỬA ĐỔI ĐIỀU LỆ \nĐiều 49. Bổ sung và sửa đổi Điều Lệ \nMọi sự bổ sung hay sửa đổi bản Điều Lệ này phải được lập dưới hình thức một dự \nthảo để Đại hội đồng cổ đông thông qua. Trong trường hợp có những quy định của Pháp \nLuật có liên quan đến hoạt động của Công Ty chưa được đề cập trong bản Điều Lệ này \nhoặc trong trường hợp có những quy định mới của Pháp Luật khác với những điều khoản \ntrong Điều Lệ này thì những quy định của Pháp Luật đó đương nhiên được áp dụng và điều \nchỉnh hoạt động của Công Ty. XX.\n\n[B_vinamilk_charter_2026_p45_c002 | data/vinamilk_charter_2026.pdf | page 45]\nNếu tranh chấp \nliên quan tới Hội đồng quản trị hay Chủ tịch Hội đồng quản trị, bất cứ bên nào \ncũng có thể yêu cầu chỉ định một chuyên gia độc lập để hành động với tư cách \nlà trọng tài cho quá trình giải quyết tranh chấp.",
+        "context_ids": [
+          "B_vinamilk_charter_2026_p46_c000",
+          "B_vinamilk_charter_2026_p45_c002"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ]
+  },
+  {
+    "query_id": "q17",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "Điều lệ này của Công ty Vinamilk có hiệu lực thi hành kể từ ngày nào?",
+        "filter": null,
+        "results": [
+          {
+            "id": "B_vinamilk_charter_2026_p05_c000",
+            "text": "5 \n \nI. ĐỊNH NGHĨA CÁC THUẬT NGỮ TRONG ĐIỀU LỆ \nĐiều 1. Giải thích thuật ngữ \n1. Trong Điều Lệ này, những thuật ngữ dưới đây được hiểu như sau: \na. “Công Ty” được quy định trong Điều Lệ này là CÔNG TY CỔ PHẦN SỮA \nVIỆT NAM; tên Công Ty viết bằng tiếng Anh là: VIETNAM DAIRY \nPRODUCTS JOINT STOCK COMPANY; và được viết tắt là VINAMILK. b. “Địa Bàn Kinh Doanh” có nghĩa là phạm vi địa lý thực hiện các hoạt động sản \nxuất, kinh doanh của Công Ty, bao gồm trong và ngoài lãnh thổ Việt Nam. c. “Vốn Điều Lệ” có nghĩa là tổng mệnh giá cổ phần đang lưu hành của Công Ty \nvà được đề cập tại Điều 6 của Điều Lệ này. d. “Luật Doanh Nghiệp” có nghĩa là Luật Doanh nghiệp số 59/2020/QH14 được \nQuốc hội Nước Cộng hòa Xã hội Chủ nghĩa Việt Nam thông qua ngày 17 tháng \n06 năm 2020, có hiệu lực thi hành từ ngày 01 tháng 01 năm 2021 và các bản sửa \nđổi, bổ sung tại từng thời điểm. e.",
+            "source_id": "vinamilk_charter_2026",
+            "source": "data/vinamilk_charter_2026.pdf",
+            "page": 5,
+            "metadata": {
+              "chapter": "Chương I",
+              "strategy": "C"
+            },
+            "score": 0.03200204813108039,
+            "strategy": "hybrid_rrf"
+          },
+          {
+            "id": "B_vinamilk_charter_2026_p46_c001",
+            "text": "NGÀY HIỆU LỰC \nĐiều 50. Ngày hiệu lực \n1. Điều Lệ này có hiệu lực kể từ ngày 22/04/2026. 2. Điều Lệ này thay thế Điều Lệ được thông qua vào ngày 25/04/2025. 3. Điều Lệ này được lập thành bốn bản (04) bản, có giá trị như nhau và được lưu giữ tại \ntrụ sở chính của Công Ty. 4. Điều Lệ này là duy nhất và chính thức của Công Ty. 5. Các bản sao hoặc trích lục Điều Lệ Công Ty có giá trị khi có chữ ký của Chủ tịch Hội \nđồng quản trị hoặc tối thiểu một nửa (1/2) tổng số thành viên Hội đồng quản trị. Điều 51. Chữ ký của Tổng Giám đốc \n \n \n \n \n \nHọ và tên: MAI KIỀU LIÊN",
+            "source_id": "vinamilk_charter_2026",
+            "source": "data/vinamilk_charter_2026.pdf",
+            "page": 46,
+            "metadata": {
+              "chapter": "Chương I",
+              "strategy": "C"
+            },
+            "score": 0.03177805800756621,
+            "strategy": "hybrid_rrf"
+          },
+          {
+            "id": "B_vinamilk_charter_2026_p04_c000",
+            "text": "4 \n \nPHẦN MỞ ĐẦU \n \nĐiều Lệ của Công ty Cổ phần Sữa Việt Nam (“Vinamilk” hoặc “Công Ty”), một \ncông ty cổ phần được thành lập và hoạt động theo các quy định của Luật Doanh Nghiệp, là \ncơ sở pháp lý cho các hoạt động quản trị, quản lý, kinh doanh, đầu tư và các hoạt động khác \ncủa Công Ty. \nĐiều Lệ này được thông qua theo Nghị quyết của Đại hội đồng cổ đông số: 01/NQ-\nCTS.ĐHĐCĐ/2026 ngày 22 tháng 04 năm 2026 (sau đây được gọi là “Điều Lệ”).",
+            "source_id": "vinamilk_charter_2026",
+            "source": "data/vinamilk_charter_2026.pdf",
+            "page": 4,
+            "metadata": {
+              "chapter": "Chương IX",
+              "strategy": "C"
+            },
+            "score": 0.031544957774465976,
+            "strategy": "hybrid_rrf"
+          }
+        ],
+        "context": "[B_vinamilk_charter_2026_p05_c000 | data/vinamilk_charter_2026.pdf | page 5]\n5 \n \nI. ĐỊNH NGHĨA CÁC THUẬT NGỮ TRONG ĐIỀU LỆ \nĐiều 1. Giải thích thuật ngữ \n1. Trong Điều Lệ này, những thuật ngữ dưới đây được hiểu như sau: \na. “Công Ty” được quy định trong Điều Lệ này là CÔNG TY CỔ PHẦN SỮA \nVIỆT NAM; tên Công Ty viết bằng tiếng Anh là: VIETNAM DAIRY \nPRODUCTS JOINT STOCK COMPANY; và được viết tắt là VINAMILK. b. “Địa Bàn Kinh Doanh” có nghĩa là phạm vi địa lý thực hiện các hoạt động sản \nxuất, kinh doanh của Công Ty, bao gồm trong và ngoài lãnh thổ Việt Nam. c. “Vốn Điều Lệ” có nghĩa là tổng mệnh giá cổ phần đang lưu hành của Công Ty \nvà được đề cập tại Điều 6 của Điều Lệ này. d. “Luật Doanh Nghiệp” có nghĩa là Luật Doanh nghiệp số 59/2020/QH14 được \nQuốc hội Nước Cộng hòa Xã hội Chủ nghĩa Việt Nam thông qua ngày 17 tháng \n06 năm 2020, có hiệu lực thi hành từ ngày 01 tháng 01 năm 2021 và các bản sửa \nđổi, bổ sung tại từng thời điểm. e.\n\n[B_vinamilk_charter_2026_p04_c000 | data/vinamilk_charter_2026.pdf | page 4]\n4 \n \nPHẦN MỞ ĐẦU \n \nĐiều Lệ của Công ty Cổ phần Sữa Việt Nam (“Vinamilk” hoặc “Công Ty”), một \ncông ty cổ phần được thành lập và hoạt động theo các quy định của Luật Doanh Nghiệp, là \ncơ sở pháp lý cho các hoạt động quản trị, quản lý, kinh doanh, đầu tư và các hoạt động khác \ncủa Công Ty. \nĐiều Lệ này được thông qua theo Nghị quyết của Đại hội đồng cổ đông số: 01/NQ-\nCTS.ĐHĐCĐ/2026 ngày 22 tháng 04 năm 2026 (sau đây được gọi là “Điều Lệ”).",
+        "context_ids": [
+          "B_vinamilk_charter_2026_p05_c000",
+          "B_vinamilk_charter_2026_p04_c000"
+        ]
+      },
+      {
+        "event": "invalid_or_missing_citations"
+      }
+    ]
+  },
+  {
+    "query_id": "q18",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "Họ và tên của Tổng Giám đốc ký tên tại trang cuối bản Điều lệ của Công ty Vinamilk là gì?",
+        "filter": null,
+        "results": [
+          {
+            "id": "B_vinamilk_charter_2026_p07_c001",
+            "text": "Tên Công Ty: \n- Tên Công Ty viết bằng tiếng Việt là: CÔNG TY CỔ PHẦN SỮA VIỆT NAM \n- Tên Công Ty viết bằng tiếng Anh là : VIETNAM DAIRY PRODUCTS JOINT \nSTOCK COMPANY \n- Tên Công Ty viết tắt là: VINAMILK \n2. Công Ty là công ty cổ phần có tư cách pháp nhân phù hợp với pháp luật hiện hành \ncủa Việt Nam. 3. Công Ty được thành lập theo phương thức chuyển từ một doanh nghiệp Nhà nước \nthành công ty cổ phần, được tổ chức và hoạt động theo Luật Doanh Nghiệp. Theo đó, \nCông Ty có tư cách pháp nhân kể từ Ngày Thành Lập, và các Cổ Đông chỉ chịu trách \nnhiệm về các khoản nợ và các nghĩa vụ tài sản khác của Công Ty trong phạm vi số \nvốn đã góp vào Công Ty. 4. Trụ sở chính của Công Ty đặt tại: \nĐịa chỉ: 10 Tân Trào, Phường Tân Mỹ, Thành phố Hồ Chí Minh, Việt Nam \nĐiện thoại: (84-28) 541 55555 – (84-28) 386 55555 Fax: (84-28) 541 61226 \nE-mail: vinamilk@vinamilk.com.vn \nWebsite: www.vinamilk.com.vn \n5.",
+            "source_id": "vinamilk_charter_2026",
+            "source": "data/vinamilk_charter_2026.pdf",
+            "page": 7,
+            "metadata": {
+              "chapter": "Chương I",
+              "strategy": "C"
+            },
+            "score": 0.032266458495966696,
+            "strategy": "hybrid_rrf"
+          },
+          {
+            "id": "B_vinamilk_charter_2026_p46_c001",
+            "text": "NGÀY HIỆU LỰC \nĐiều 50. Ngày hiệu lực \n1. Điều Lệ này có hiệu lực kể từ ngày 22/04/2026. 2. Điều Lệ này thay thế Điều Lệ được thông qua vào ngày 25/04/2025. 3. Điều Lệ này được lập thành bốn bản (04) bản, có giá trị như nhau và được lưu giữ tại \ntrụ sở chính của Công Ty. 4. Điều Lệ này là duy nhất và chính thức của Công Ty. 5. Các bản sao hoặc trích lục Điều Lệ Công Ty có giá trị khi có chữ ký của Chủ tịch Hội \nđồng quản trị hoặc tối thiểu một nửa (1/2) tổng số thành viên Hội đồng quản trị. Điều 51. Chữ ký của Tổng Giám đốc \n \n \n \n \n \nHọ và tên: MAI KIỀU LIÊN",
+            "source_id": "vinamilk_charter_2026",
+            "source": "data/vinamilk_charter_2026.pdf",
+            "page": 46,
+            "metadata": {
+              "chapter": "Chương I",
+              "strategy": "C"
+            },
+            "score": 0.031054405392392875,
+            "strategy": "hybrid_rrf"
+          },
+          {
+            "id": "B_vinamilk_charter_2026_p36_c000",
+            "text": "36 \n \ni. Tổng Giám đốc sẽ là người đại diện cho Công Ty hoặc ủy quyền cho Giám đốc \nĐiều Hành để thực hiện việc tuyển dụng và ký kết các hợp đồng lao động; \nj. Trong phạm vi nhiệm vụ và quyền hạn của mình thì Tổng Giám đốc có thể ủy \nquyền cho cá nhân và/hoặc tổ chức khác thực hiện các công việc liên quan đến \nnhiệm vụ và quyền hạn của mình tùy theo nhu cầu vào từng thời điểm; \nk. Điều hành công việc kinh doanh hằng ngày của Công Ty theo đúng quy định của \nPháp Luật, Điều Lệ này và các quy chế của Công Ty do Hội đồng quản trị ban \nhành, các quyết định của Hội đồng quản trị, hợp đồng lao động ký với Công Ty. Nếu điều hành trái với quy định trên mà gây thiệt hại cho Công Ty thì Tổng \nGiám đốc phải chịu trách nhiệm trước Pháp Luật (nếu có) và phải bồi thường \nthiệt hại cho Công Ty. l. Kiến nghị phương án cơ cấu tổ chức, quy chế quản lý nội bộ của Công Ty. m. Các quyền và nghĩa vụ khác theo quy định của pháp luật, Điều lệ Công Ty và \nnghị quyết, quyết định của Hội đồng quản trị. 5.",
+            "source_id": "vinamilk_charter_2026",
+            "source": "data/vinamilk_charter_2026.pdf",
+            "page": 36,
+            "metadata": {
+              "chapter": "Chương VII",
+              "strategy": "C"
+            },
+            "score": 0.03076923076923077,
+            "strategy": "hybrid_rrf"
+          }
+        ],
+        "context": "[B_vinamilk_charter_2026_p07_c001 | data/vinamilk_charter_2026.pdf | page 7]\nTên Công Ty: \n- Tên Công Ty viết bằng tiếng Việt là: CÔNG TY CỔ PHẦN SỮA VIỆT NAM \n- Tên Công Ty viết bằng tiếng Anh là : VIETNAM DAIRY PRODUCTS JOINT \nSTOCK COMPANY \n- Tên Công Ty viết tắt là: VINAMILK \n2. Công Ty là công ty cổ phần có tư cách pháp nhân phù hợp với pháp luật hiện hành \ncủa Việt Nam. 3. Công Ty được thành lập theo phương thức chuyển từ một doanh nghiệp Nhà nước \nthành công ty cổ phần, được tổ chức và hoạt động theo Luật Doanh Nghiệp. Theo đó, \nCông Ty có tư cách pháp nhân kể từ Ngày Thành Lập, và các Cổ Đông chỉ chịu trách \nnhiệm về các khoản nợ và các nghĩa vụ tài sản khác của Công Ty trong phạm vi số \nvốn đã góp vào Công Ty. 4. Trụ sở chính của Công Ty đặt tại: \nĐịa chỉ: 10 Tân Trào, Phường Tân Mỹ, Thành phố Hồ Chí Minh, Việt Nam \nĐiện thoại: (84-28) 541 55555 – (84-28) 386 55555 Fax: (84-28) 541 61226 \nE-mail: vinamilk@vinamilk.com.vn \nWebsite: www.vinamilk.com.vn \n5.",
+        "context_ids": [
+          "B_vinamilk_charter_2026_p07_c001"
+        ]
+      },
+      {
+        "event": "invalid_or_missing_citations"
+      }
+    ]
+  },
+  {
+    "query_id": "q19",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "Cơ quan nào trong công ty có thẩm quyền quyết định con dấu chính thức của Vinamilk?",
+        "filter": null,
+        "results": [
+          {
+            "id": "B_vinamilk_charter_2026_p07_c001",
+            "text": "Tên Công Ty: \n- Tên Công Ty viết bằng tiếng Việt là: CÔNG TY CỔ PHẦN SỮA VIỆT NAM \n- Tên Công Ty viết bằng tiếng Anh là : VIETNAM DAIRY PRODUCTS JOINT \nSTOCK COMPANY \n- Tên Công Ty viết tắt là: VINAMILK \n2. Công Ty là công ty cổ phần có tư cách pháp nhân phù hợp với pháp luật hiện hành \ncủa Việt Nam. 3. Công Ty được thành lập theo phương thức chuyển từ một doanh nghiệp Nhà nước \nthành công ty cổ phần, được tổ chức và hoạt động theo Luật Doanh Nghiệp. Theo đó, \nCông Ty có tư cách pháp nhân kể từ Ngày Thành Lập, và các Cổ Đông chỉ chịu trách \nnhiệm về các khoản nợ và các nghĩa vụ tài sản khác của Công Ty trong phạm vi số \nvốn đã góp vào Công Ty. 4. Trụ sở chính của Công Ty đặt tại: \nĐịa chỉ: 10 Tân Trào, Phường Tân Mỹ, Thành phố Hồ Chí Minh, Việt Nam \nĐiện thoại: (84-28) 541 55555 – (84-28) 386 55555 Fax: (84-28) 541 61226 \nE-mail: vinamilk@vinamilk.com.vn \nWebsite: www.vinamilk.com.vn \n5.",
+            "source_id": "vinamilk_charter_2026",
+            "source": "data/vinamilk_charter_2026.pdf",
+            "page": 7,
+            "metadata": {
+              "chapter": "Chương I",
+              "strategy": "C"
+            },
+            "score": 0.03252247488101534,
+            "strategy": "hybrid_rrf"
+          },
+          {
+            "id": "B_vinamilk_charter_2026_p44_c000",
+            "text": "44 \n \n5. Đại diện của công ty kiểm toán độc lập thực hiện việc kiểm toán cho Công Ty được \nmời tham dự các cuộc họp Đại hội đồng cổ đông và được quyền nhận các thông báo \nvà các thông tin khác liên quan đến Đại hội đồng cổ đông mà các Cổ Đông được \nquyền nhận và được phát biểu ý kiến tại Đại hội về các vấn đề có liên quan đến kiểm \ntoán. XVI. CON DẤU \nĐiều 44. Con dấu \n1. Dấu bao gồm dấu được làm tại cơ sở khắc dấu hoặc dấu dưới hình thức chữ ký số \ntheo quy định của pháp luật về giao dịch điện tử. 2. Hội đồng quản trị quyết định con dấu chính thức của Công Ty và các Đơn Vị Trực \nThuộc. 3. Việc quản lý và sử dụng con dấu thực hiện theo Quy chế quản lý và sử dụng con dấu \ncủa Công Ty và pháp luật hiện hành. XVII. CHẤM DỨT HOẠT ĐỘNG VÀ THANH LÝ \nĐiều 45. Chấm dứt hoạt động \n1. Công Ty có thể bị giải thể hoặc chấm dứt hoạt động trong những trường hợp sau: \na. Khi kết thúc Thời Hạn Hoạt Đông của Công Ty, kể cả sau khi đã gia hạn; \nb.",
+            "source_id": "vinamilk_charter_2026",
+            "source": "data/vinamilk_charter_2026.pdf",
+            "page": 44,
+            "metadata": {
+              "chapter": "Chương I",
+              "strategy": "C"
+            },
+            "score": 0.032018442622950824,
+            "strategy": "hybrid_rrf"
+          },
+          {
+            "id": "B_vinamilk_charter_2026_p27_c000",
+            "text": "27 \n \nh. Quyết định cơ cấu tổ chức, quy chế quản lý nội bộ của Công Ty; \ni. Quyết định thành lập, chấm dứt hoạt động của Chi Nhánh hoặc Văn Phòng Đại \nDiện; \nj. Quyết định việc t hành lập, sáp nhập, chia tách, hợp nhất, chuyển đổi loại hình \nvà giải thể Công Ty Con; \nk. Quyết định việc mua hoặc bán cổ phần, phần vốn góp tại các doanh nghiệp khác \nđược thành lập ở Việt Nam hay nước ngoài; \nl. Quyết định bán cổ phần chưa bán trong phạm vi số cổ phần được quyền chào \nbán từng loại; quyết định huy động thêm vốn theo hình thức khác; \nm. Giải quyết các khiếu nại của Công Ty đối với Người Quản Lý cũng như quyết \nđịnh lựa chọn đại diện của Công Ty để giải quyết các vấn đề liên quan tới các \nthủ tục pháp lý đối với Người Quản Lý đó; \nn. Đề xuất các loại cổ phiếu có thể phát hành và tổng số cổ phiếu phát hành theo \ntừng loại; \no. Đề xuất việc phát hành trái phiếu chuyển đổi thành cổ phiếu và các chứng quyền \ncho phép người sở hữu mua cổ phiếu theo một giá xác định trước; \np.",
+            "source_id": "vinamilk_charter_2026",
+            "source": "data/vinamilk_charter_2026.pdf",
+            "page": 27,
+            "metadata": {
+              "chapter": "Chương VII",
+              "strategy": "C"
+            },
+            "score": 0.029418126757516764,
+            "strategy": "hybrid_rrf"
+          }
+        ],
+        "context": "[B_vinamilk_charter_2026_p07_c001 | data/vinamilk_charter_2026.pdf | page 7]\nTên Công Ty: \n- Tên Công Ty viết bằng tiếng Việt là: CÔNG TY CỔ PHẦN SỮA VIỆT NAM \n- Tên Công Ty viết bằng tiếng Anh là : VIETNAM DAIRY PRODUCTS JOINT \nSTOCK COMPANY \n- Tên Công Ty viết tắt là: VINAMILK \n2. Công Ty là công ty cổ phần có tư cách pháp nhân phù hợp với pháp luật hiện hành \ncủa Việt Nam. 3. Công Ty được thành lập theo phương thức chuyển từ một doanh nghiệp Nhà nước \nthành công ty cổ phần, được tổ chức và hoạt động theo Luật Doanh Nghiệp. Theo đó, \nCông Ty có tư cách pháp nhân kể từ Ngày Thành Lập, và các Cổ Đông chỉ chịu trách \nnhiệm về các khoản nợ và các nghĩa vụ tài sản khác của Công Ty trong phạm vi số \nvốn đã góp vào Công Ty. 4. Trụ sở chính của Công Ty đặt tại: \nĐịa chỉ: 10 Tân Trào, Phường Tân Mỹ, Thành phố Hồ Chí Minh, Việt Nam \nĐiện thoại: (84-28) 541 55555 – (84-28) 386 55555 Fax: (84-28) 541 61226 \nE-mail: vinamilk@vinamilk.com.vn \nWebsite: www.vinamilk.com.vn \n5.",
+        "context_ids": [
+          "B_vinamilk_charter_2026_p07_c001"
+        ]
+      },
+      {
+        "event": "invalid_or_missing_citations"
+      }
+    ]
+  },
+  {
+    "query_id": "q20",
+    "status": "answered",
+    "answer": "Mã ngành của hoạt động trồng cây hàng năm khác của Công ty là 0119 [B_vinamilk_charter_2026_p47_c000].",
+    "citations": [
+      "B_vinamilk_charter_2026_p47_c000"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "Theo Phụ lục 1 về ngành nghề, mã ngành của hoạt động trồng cây hàng năm khác của Công ty là bao nhiêu?",
+        "filter": {
+          "chapter": "Phụ lục 1"
+        },
+        "results": [
+          {
+            "id": "B_vinamilk_charter_2026_p47_c000",
+            "text": "47 \n \nPHỤ LỤC 1 \nDANH SÁCH CÁC NGÀNH, NGHỀ KINH DOANH CỦA CÔNG TY \n \nDanh sách các ngành, nghề kinh doanh của Công Ty theo quy định tại Khoản 1 Điều 4 của \nĐiều Lệ này như sau: \nSTT Mã ngành Tên ngành, nghề kinh doanh \n1 0119 Trồng cây hàng năm khác \n2 0141 Chăn nuôi trâu, bò và sản xuất giống trâu, bò (không hoạt động tại trụ sở) \n3 0150 Trồng trọt, chăn nuôi hỗn hợp \n4 1050 (Chính) Chế biến sữa và các sản phẩm từ sữa Chi tiết: Sản xuất sữa hộp, sữa bột, bột dinh dưỡng và các sản phẩm từ sữa khác \n5 1071 Sản xuất các loại bánh từ bột \n6 1072 Sản xuất đường \n7 1079 Sản xuất thực phẩm khác chưa được phân vào đâu \n8 1103 Sản xuất bia \n9 1105 Sản xuất đồ uống không cồn, nước khoáng \n10 2029 \nSản xuất sản phẩm hoá chất khác chưa được phân vào đâu \nChi tiết: Kinh doanh hóa chất (trừ hóa chất có tính độc hại mạnh) \n(Doanh nghiệp chỉ được kinh doanh kể từ khi có đủ điều kiện theo quy \nđịnh của pháp luật và phải bảo đảm đáp ứng các điều kiện đó trong \nsuốt quá trình hoạt động kinh doanh).",
+            "source_id": "vinamilk_charter_2026",
+            "source": "data/vinamilk_charter_2026.pdf",
+            "page": 47,
+            "metadata": {
+              "chapter": "Phụ lục 1",
+              "strategy": "C"
+            },
+            "score": 0.03278688524590164,
+            "strategy": "hybrid_rrf"
+          },
+          {
+            "id": "B_vinamilk_charter_2026_p50_c000",
+            "text": "50 \n \n29 4773 \nBán lẻ hàng hóa khác mới (trừ ô tô, mô tô, xe máy và các bộ phận phụ \ntrợ) \nChi tiết: Thực hiện quyền phân phối bán lẻ các hàng hóa không thuộc \ndanh mục hàng hóa không được phân phối theo quy định của pháp luật \nViệt Nam hoặc không thuộc diện hạn chế theo cam kết quốc tế trong \ncác điều ước quốc tế mà Việt Nam là thành viên (CPC 632). 30 4933 \nVận tải hàng hóa bằng đường bộ \nChi tiết: Vận tải hàng hóa nội bộ bằng ô tô phục vụ cho hoạt động sản \nxuất và tiêu thụ sản phẩm của công ty (doanh nghiệp không cung cấp \ndịch vụ ra bên ngoài) \n31 5210 Kho bãi và lưu giữ hàng hóa Chi tiết: Dịch vụ kho bãi (CPC 742) (trừ Kinh doanh Bất Động Sản). 32 5610 Nhà hàng và các dịch vụ ăn uống phục vụ lưu động Chi tiết: Dịch vụ cung cấp thức ăn (CPC6421).",
+            "source_id": "vinamilk_charter_2026",
+            "source": "data/vinamilk_charter_2026.pdf",
+            "page": 50,
+            "metadata": {
+              "chapter": "Phụ lục 1",
+              "strategy": "C"
+            },
+            "score": 0.0315136476426799,
+            "strategy": "hybrid_rrf"
+          },
+          {
+            "id": "B_vinamilk_charter_2026_p49_c000",
+            "text": "49 \n \n22 4719 \nBán lẻ tổng hợp khác \nChi tiết: Thực hiện quyền phân phối bán lẻ các hàng hóa không thuộc \ndanh mục hàng hóa không được phân phối theo quy định của pháp luật \nViệt Nam hoặc không thuộc diện hạn chế theo cam kết quốc tế trong \ncác điều ước quốc tế mà Việt Nam là thành viên (CPC 632) (không hoạt \nđộng tại trụ sở). 23 4722 \nBán lẻ thực phẩm \nChi tiết: Thực hiện quyền phân phối bán lẻ các hàng hóa không thuộc \ndanh mục hàng hóa không được phân phối theo quy định của pháp luật \nViệt Nam hoặc không thuộc diện hạn chế theo cam kết quốc tế trong \ncác điều ước quốc tế mà Việt Nam là thành viên (CPC 632). 24 4723 \nBán lẻ đồ uống \nChi tiết: Thực hiện quyền phân phối bán lẻ các hàng hóa không thuộc \ndanh mục hàng hóa không được phân phối theo quy định của pháp luật \nViệt Nam hoặc không thuộc diện hạn chế theo cam kết quốc tế trong \ncác điều ước quốc tế mà Việt Nam là thành viên (CPC 632).",
+            "source_id": "vinamilk_charter_2026",
+            "source": "data/vinamilk_charter_2026.pdf",
+            "page": 49,
+            "metadata": {
+              "chapter": "Phụ lục 1",
+              "strategy": "C"
+            },
+            "score": 0.030798389007344232,
+            "strategy": "hybrid_rrf"
+          }
+        ],
+        "context": "[B_vinamilk_charter_2026_p47_c000 | data/vinamilk_charter_2026.pdf | page 47]\n47 \n \nPHỤ LỤC 1 \nDANH SÁCH CÁC NGÀNH, NGHỀ KINH DOANH CỦA CÔNG TY \n \nDanh sách các ngành, nghề kinh doanh của Công Ty theo quy định tại Khoản 1 Điều 4 của \nĐiều Lệ này như sau: \nSTT Mã ngành Tên ngành, nghề kinh doanh \n1 0119 Trồng cây hàng năm khác \n2 0141 Chăn nuôi trâu, bò và sản xuất giống trâu, bò (không hoạt động tại trụ sở) \n3 0150 Trồng trọt, chăn nuôi hỗn hợp \n4 1050 (Chính) Chế biến sữa và các sản phẩm từ sữa Chi tiết: Sản xuất sữa hộp, sữa bột, bột dinh dưỡng và các sản phẩm từ sữa khác \n5 1071 Sản xuất các loại bánh từ bột \n6 1072 Sản xuất đường \n7 1079 Sản xuất thực phẩm khác chưa được phân vào đâu \n8 1103 Sản xuất bia \n9 1105 Sản xuất đồ uống không cồn, nước khoáng \n10 2029 \nSản xuất sản phẩm hoá chất khác chưa được phân vào đâu \nChi tiết: Kinh doanh hóa chất (trừ hóa chất có tính độc hại mạnh) \n(Doanh nghiệp chỉ được kinh doanh kể từ khi có đủ điều kiện theo quy \nđịnh của pháp luật và phải bảo đảm đáp ứng các điều kiện đó trong \nsuốt quá trình hoạt động kinh doanh).",
+        "context_ids": [
+          "B_vinamilk_charter_2026_p47_c000"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ]
+  },
+  {
+    "query_id": "q23",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "Công thức tính hệ số thưởng Tết Nguyên Đán cho cán bộ quản lý cấp phòng của Vinamilk được quy định như thế nào?",
+        "filter": null,
+        "results": [
+          {
+            "id": "B_vinamilk_charter_2026_p04_c000",
+            "text": "4 \n \nPHẦN MỞ ĐẦU \n \nĐiều Lệ của Công ty Cổ phần Sữa Việt Nam (“Vinamilk” hoặc “Công Ty”), một \ncông ty cổ phần được thành lập và hoạt động theo các quy định của Luật Doanh Nghiệp, là \ncơ sở pháp lý cho các hoạt động quản trị, quản lý, kinh doanh, đầu tư và các hoạt động khác \ncủa Công Ty. \nĐiều Lệ này được thông qua theo Nghị quyết của Đại hội đồng cổ đông số: 01/NQ-\nCTS.ĐHĐCĐ/2026 ngày 22 tháng 04 năm 2026 (sau đây được gọi là “Điều Lệ”).",
+            "source_id": "vinamilk_charter_2026",
+            "source": "data/vinamilk_charter_2026.pdf",
+            "page": 4,
+            "metadata": {
+              "chapter": "Chương IX",
+              "strategy": "C"
+            },
+            "score": 0.0315136476426799,
+            "strategy": "hybrid_rrf"
+          },
+          {
+            "id": "B_vinamilk_charter_2026_p01_c000",
+            "text": "1 \n \n \n \nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM \nĐộc lập - Tự do - Hạnh phúc \n \n \n \n \n \n \n ĐIỀU LỆ \n \nCÔNG TY CỔ PHẦN SỮA VIỆT NAM \n(VINAMILK) \n \n \n \n \n \n \n \n \n \n \n \n \nThành phố Hồ Chí Minh, ngày 22 tháng 04 năm 2026",
+            "source_id": "vinamilk_charter_2026",
+            "source": "data/vinamilk_charter_2026.pdf",
+            "page": 1,
+            "metadata": {
+              "chapter": "Mở đầu",
+              "strategy": "C"
+            },
+            "score": 0.01639344262295082,
+            "strategy": "hybrid_rrf"
+          },
+          {
+            "id": "B_vinamilk_charter_2026_p33_c002",
+            "source_id": "vinamilk_charter_2026",
+            "source": "data/vinamilk_charter_2026.pdf",
+            "page": 33,
+            "text": "Xem xét sổ kế toán và các tài liệu khác của Công Ty, các công việc quản lý, điều \nhành hoạt động của Công Ty theo quyết định của Đại hội đồng cổ đông hoặc \ntheo yêu cầu của Cổ Đông hoặc nhóm Cổ Đông được quy định tại Khoản 3 Điều \n9 của Điều Lệ này; \nf. Thẩm định báo cáo tình hình kinh doanh, báo cáo tài chính năm, sáu tháng và \nquý của Công Ty. Lập nội dung thẩm định này trong báo cáo của Hội đồng quản \ntrị trình Đại hội đồng cổ đông tại cuộc họp thường niên; \ng. Kiểm toán nội bộ: Ủy Ban Kiểm Toán chịu trách nhiệm về hoạt động kiểm toán \nnội bộ của Công Ty; \nh. Trong hoạt động kế toán, kiểm toán của Công Ty: thực hiện các quyền hạn và \ntrách nhiệm được quy định tại Quy Chế Quản Trị Công Ty; \ni. Rà soát hệ thống kiểm soát nội bộ và quản lý rủi ro;",
+            "metadata": {
+              "document_id": "vinamilk_charter_2026",
+              "source": "data/vinamilk_charter_2026.pdf",
+              "page": 33,
+              "chapter": "Chương VII",
+              "strategy": "B",
+              "chunk_size": 757
+            },
+            "score": 0.01639344262295082,
+            "strategy": "hybrid_rrf"
+          }
+        ],
+        "context": "[B_vinamilk_charter_2026_p04_c000 | data/vinamilk_charter_2026.pdf | page 4]\n4 \n \nPHẦN MỞ ĐẦU \n \nĐiều Lệ của Công ty Cổ phần Sữa Việt Nam (“Vinamilk” hoặc “Công Ty”), một \ncông ty cổ phần được thành lập và hoạt động theo các quy định của Luật Doanh Nghiệp, là \ncơ sở pháp lý cho các hoạt động quản trị, quản lý, kinh doanh, đầu tư và các hoạt động khác \ncủa Công Ty. \nĐiều Lệ này được thông qua theo Nghị quyết của Đại hội đồng cổ đông số: 01/NQ-\nCTS.ĐHĐCĐ/2026 ngày 22 tháng 04 năm 2026 (sau đây được gọi là “Điều Lệ”).\n\n[B_vinamilk_charter_2026_p01_c000 | data/vinamilk_charter_2026.pdf | page 1]\n1 \n \n \n \nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM \nĐộc lập - Tự do - Hạnh phúc \n \n \n \n \n \n \n ĐIỀU LỆ \n \nCÔNG TY CỔ PHẦN SỮA VIỆT NAM \n(VINAMILK) \n \n \n \n \n \n \n \n \n \n \n \n \nThành phố Hồ Chí Minh, ngày 22 tháng 04 năm 2026",
+        "context_ids": [
+          "B_vinamilk_charter_2026_p04_c000",
+          "B_vinamilk_charter_2026_p01_c000"
+        ]
+      },
+      {
+        "event": "invalid_or_missing_citations"
+      }
+    ]
+  },
+  {
+    "query_id": "q24",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "Lộ trình cam kết đạt mức phát thải ròng bằng 0 (Net Zero) của Vinamilk đặt mục tiêu giảm bao nhiêu phần trăm khí thải vào năm 2030?",
+        "filter": null,
+        "results": [
+          {
+            "id": "B_vinamilk_charter_2026_p07_c001",
+            "text": "Tên Công Ty: \n- Tên Công Ty viết bằng tiếng Việt là: CÔNG TY CỔ PHẦN SỮA VIỆT NAM \n- Tên Công Ty viết bằng tiếng Anh là : VIETNAM DAIRY PRODUCTS JOINT \nSTOCK COMPANY \n- Tên Công Ty viết tắt là: VINAMILK \n2. Công Ty là công ty cổ phần có tư cách pháp nhân phù hợp với pháp luật hiện hành \ncủa Việt Nam. 3. Công Ty được thành lập theo phương thức chuyển từ một doanh nghiệp Nhà nước \nthành công ty cổ phần, được tổ chức và hoạt động theo Luật Doanh Nghiệp. Theo đó, \nCông Ty có tư cách pháp nhân kể từ Ngày Thành Lập, và các Cổ Đông chỉ chịu trách \nnhiệm về các khoản nợ và các nghĩa vụ tài sản khác của Công Ty trong phạm vi số \nvốn đã góp vào Công Ty. 4. Trụ sở chính của Công Ty đặt tại: \nĐịa chỉ: 10 Tân Trào, Phường Tân Mỹ, Thành phố Hồ Chí Minh, Việt Nam \nĐiện thoại: (84-28) 541 55555 – (84-28) 386 55555 Fax: (84-28) 541 61226 \nE-mail: vinamilk@vinamilk.com.vn \nWebsite: www.vinamilk.com.vn \n5.",
+            "source_id": "vinamilk_charter_2026",
+            "source": "data/vinamilk_charter_2026.pdf",
+            "page": 7,
+            "metadata": {
+              "chapter": "Chương I",
+              "strategy": "C"
+            },
+            "score": 0.032266458495966696,
+            "strategy": "hybrid_rrf"
+          },
+          {
+            "id": "B_vinamilk_charter_2026_p04_c000",
+            "text": "4 \n \nPHẦN MỞ ĐẦU \n \nĐiều Lệ của Công ty Cổ phần Sữa Việt Nam (“Vinamilk” hoặc “Công Ty”), một \ncông ty cổ phần được thành lập và hoạt động theo các quy định của Luật Doanh Nghiệp, là \ncơ sở pháp lý cho các hoạt động quản trị, quản lý, kinh doanh, đầu tư và các hoạt động khác \ncủa Công Ty. \nĐiều Lệ này được thông qua theo Nghị quyết của Đại hội đồng cổ đông số: 01/NQ-\nCTS.ĐHĐCĐ/2026 ngày 22 tháng 04 năm 2026 (sau đây được gọi là “Điều Lệ”).",
+            "source_id": "vinamilk_charter_2026",
+            "source": "data/vinamilk_charter_2026.pdf",
+            "page": 4,
+            "metadata": {
+              "chapter": "Chương IX",
+              "strategy": "C"
+            },
+            "score": 0.029910714285714284,
+            "strategy": "hybrid_rrf"
+          },
+          {
+            "id": "B_vinamilk_charter_2026_p16_c001",
+            "source_id": "vinamilk_charter_2026",
+            "source": "data/vinamilk_charter_2026.pdf",
+            "page": 16,
+            "text": "Quyết định ngân sách hoặc tổng mức thù lao, thưởng và lợi ích khác đối với Hội \nđồng quản trị; \ni. Bổ sung và sửa đổi Điều Lệ Công Ty; \nj. Thông qua ngành, nghề kinh doanh của Công Ty; \nk. Quyết định thay đổi Vốn Điều Lệ của Công Ty, bao gồm cả việc giảm Vốn Điều \nLệ; \nl. Quyết định l oại cổ phần và số lượng cổ phần mới sẽ được phát hành cho mỗi \nloại cổ phần; \nm. Chia, tách, hợp nhất, sáp nhập hoặc chuyển đổi Công Ty; \nn. Tổ chức lại và giải thể (thanh lý) Công Ty và chỉ định người thanh lý; \no. Xem xét, xử lý các vi phạm của thành viên Hội đồng quản trị gây thiệt hại cho \nCông Ty và Cổ Đông của Công Ty; \np. Quyết định đầu tư hoặc bán số tài sản của Công Ty hoặc các Đơn Vị Trực Thuộc \ncó giá trị bằng hoặc lớn hơn ba mươi lăm phần trăm (35%) tổng giá trị tài sản \ncủa Công Ty được ghi trong báo cáo tài chính gần nhất; \nq. Công Ty mua lại hơn mười phần trăm (10%) một loại cổ phần phát hành; \nr.",
+            "metadata": {
+              "document_id": "vinamilk_charter_2026",
+              "source": "data/vinamilk_charter_2026.pdf",
+              "page": 16,
+              "chapter": "Chương IV",
+              "strategy": "B",
+              "chunk_size": 905
+            },
+            "score": 0.01639344262295082,
+            "strategy": "hybrid_rrf"
+          }
+        ],
+        "context": "[B_vinamilk_charter_2026_p07_c001 | data/vinamilk_charter_2026.pdf | page 7]\nTên Công Ty: \n- Tên Công Ty viết bằng tiếng Việt là: CÔNG TY CỔ PHẦN SỮA VIỆT NAM \n- Tên Công Ty viết bằng tiếng Anh là : VIETNAM DAIRY PRODUCTS JOINT \nSTOCK COMPANY \n- Tên Công Ty viết tắt là: VINAMILK \n2. Công Ty là công ty cổ phần có tư cách pháp nhân phù hợp với pháp luật hiện hành \ncủa Việt Nam. 3. Công Ty được thành lập theo phương thức chuyển từ một doanh nghiệp Nhà nước \nthành công ty cổ phần, được tổ chức và hoạt động theo Luật Doanh Nghiệp. Theo đó, \nCông Ty có tư cách pháp nhân kể từ Ngày Thành Lập, và các Cổ Đông chỉ chịu trách \nnhiệm về các khoản nợ và các nghĩa vụ tài sản khác của Công Ty trong phạm vi số \nvốn đã góp vào Công Ty. 4. Trụ sở chính của Công Ty đặt tại: \nĐịa chỉ: 10 Tân Trào, Phường Tân Mỹ, Thành phố Hồ Chí Minh, Việt Nam \nĐiện thoại: (84-28) 541 55555 – (84-28) 386 55555 Fax: (84-28) 541 61226 \nE-mail: vinamilk@vinamilk.com.vn \nWebsite: www.vinamilk.com.vn \n5.\n\n[B_vinamilk_charter_2026_p04_c000 | data/vinamilk_charter_2026.pdf | page 4]\n4 \n \nPHẦN MỞ ĐẦU \n \nĐiều Lệ của Công ty Cổ phần Sữa Việt Nam (“Vinamilk” hoặc “Công Ty”), một \ncông ty cổ phần được thành lập và hoạt động theo các quy định của Luật Doanh Nghiệp, là \ncơ sở pháp lý cho các hoạt động quản trị, quản lý, kinh doanh, đầu tư và các hoạt động khác \ncủa Công Ty. \nĐiều Lệ này được thông qua theo Nghị quyết của Đại hội đồng cổ đông số: 01/NQ-\nCTS.ĐHĐCĐ/2026 ngày 22 tháng 04 năm 2026 (sau đây được gọi là “Điều Lệ”).",
+        "context_ids": [
+          "B_vinamilk_charter_2026_p07_c001",
+          "B_vinamilk_charter_2026_p04_c000"
+        ]
+      },
+      {
+        "event": "invalid_or_missing_citations"
+      }
+    ]
+  }
+]

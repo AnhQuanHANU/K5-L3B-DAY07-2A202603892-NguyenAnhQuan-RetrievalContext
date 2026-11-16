@@ -1,0 +1,366 @@
+{
+  "source_id": "vinamilk_charter_2026",
+  "title": "Điều lệ Công ty Cổ phần Sữa Việt Nam (Vinamilk)",
+  "organization": "Công ty Cổ phần Sữa Việt Nam (Vinamilk)",
+  "source_path_or_url": "https://d8um25gjecm9v.cloudfront.net/cms/4_Du_thao_Dieu_le_CTCP_Sua_Viet_Nam_777f13ecdd.pdf",
+  "license_or_permission": "Public corporate disclosure document published by Vinamilk under Vietnamese Securities Law / Corporate Governance regulations",
+  "accessed_at": "2026-11-14T09:55:00+07:00",
+  "version": "Phiên bản thông qua ngày 22/04/2026",
+  "effective_date": "2026-04-22",
+  "total_physical_pages": 50,
+  "total_content_pages": 50,
+  "page_counting_rule": "Đếm toàn bộ các trang có nội dung văn bản quy phạm (> 50 ký tự chuẩn hóa). Tất cả 50/50 trang đều chứa điều khoản hoặc phụ lục ngành nghề kinh doanh, không có trang trắng.",
+  "total_characters": 120067,
+  "pages": [
+    {
+      "page": 1,
+      "page_id": "p_01",
+      "char_count": 212,
+      "chapter_detected": "Chương mở đầu",
+      "is_content_page": true
+    },
+    {
+      "page": 2,
+      "page_id": "p_02",
+      "char_count": 5079,
+      "chapter_detected": "I. ĐỊNH NGHĨA CÁC THUẬT NGỮ TRONG ĐIỀU LỆ .................................................... 5",
+      "is_content_page": true
+    },
+    {
+      "page": 3,
+      "page_id": "p_03",
+      "char_count": 4670,
+      "chapter_detected": "IX. TRÁCH NHIỆM CỦA THÀNH VIÊN HỘI ĐỒNG QUẢN TRỊ, TỔNG GIÁM ĐỐC",
+      "is_content_page": true
+    },
+    {
+      "page": 4,
+      "page_id": "p_04",
+      "char_count": 443,
+      "chapter_detected": "IX. TRÁCH NHIỆM CỦA THÀNH VIÊN HỘI ĐỒNG QUẢN TRỊ, TỔNG GIÁM ĐỐC",
+      "is_content_page": true
+    },
+    {
+      "page": 5,
+      "page_id": "p_05",
+      "char_count": 2056,
+      "chapter_detected": "I. ĐỊNH NGHĨA CÁC THUẬT NGỮ TRONG ĐIỀU LỆ",
+      "is_content_page": true
+    },
+    {
+      "page": 6,
+      "page_id": "p_06",
+      "char_count": 2386,
+      "chapter_detected": "I. ĐỊNH NGHĨA CÁC THUẬT NGỮ TRONG ĐIỀU LỆ",
+      "is_content_page": true
+    },
+    {
+      "page": 7,
+      "page_id": "p_07",
+      "char_count": 2046,
+      "chapter_detected": "II. TÊN, HÌNH THỨC, TRỤ SỞ, ĐƠN VỊ TRỰC THUỘC , THỜI HẠN HOẠT",
+      "is_content_page": true
+    },
+    {
+      "page": 8,
+      "page_id": "p_08",
+      "char_count": 2602,
+      "chapter_detected": "III. TRIẾT LÝ KINH DOANH VÀ MỤC TIÊU; PHẠM VI KINH DOANH VÀ",
+      "is_content_page": true
+    },
+    {
+      "page": 9,
+      "page_id": "p_09",
+      "char_count": 2522,
+      "chapter_detected": "IV. VỐN ĐIỀU LỆ, CỔ PHẦN",
+      "is_content_page": true
+    },
+    {
+      "page": 10,
+      "page_id": "p_10",
+      "char_count": 2159,
+      "chapter_detected": "V. CƠ CẤU TỔ CHỨC, QUẢN TRỊ VÀ KIỂM SOÁT",
+      "is_content_page": true
+    },
+    {
+      "page": 11,
+      "page_id": "p_11",
+      "char_count": 2531,
+      "chapter_detected": "V. CƠ CẤU TỔ CHỨC, QUẢN TRỊ VÀ KIỂM SOÁT",
+      "is_content_page": true
+    },
+    {
+      "page": 12,
+      "page_id": "p_12",
+      "char_count": 2526,
+      "chapter_detected": "V. CƠ CẤU TỔ CHỨC, QUẢN TRỊ VÀ KIỂM SOÁT",
+      "is_content_page": true
+    },
+    {
+      "page": 13,
+      "page_id": "p_13",
+      "char_count": 2389,
+      "chapter_detected": "V. CƠ CẤU TỔ CHỨC, QUẢN TRỊ VÀ KIỂM SOÁT",
+      "is_content_page": true
+    },
+    {
+      "page": 14,
+      "page_id": "p_14",
+      "char_count": 2559,
+      "chapter_detected": "V. CƠ CẤU TỔ CHỨC, QUẢN TRỊ VÀ KIỂM SOÁT",
+      "is_content_page": true
+    },
+    {
+      "page": 15,
+      "page_id": "p_15",
+      "char_count": 2568,
+      "chapter_detected": "V. CƠ CẤU TỔ CHỨC, QUẢN TRỊ VÀ KIỂM SOÁT",
+      "is_content_page": true
+    },
+    {
+      "page": 16,
+      "page_id": "p_16",
+      "char_count": 1970,
+      "chapter_detected": "V. CƠ CẤU TỔ CHỨC, QUẢN TRỊ VÀ KIỂM SOÁT",
+      "is_content_page": true
+    },
+    {
+      "page": 17,
+      "page_id": "p_17",
+      "char_count": 2134,
+      "chapter_detected": "V. CƠ CẤU TỔ CHỨC, QUẢN TRỊ VÀ KIỂM SOÁT",
+      "is_content_page": true
+    },
+    {
+      "page": 18,
+      "page_id": "p_18",
+      "char_count": 2520,
+      "chapter_detected": "V. CƠ CẤU TỔ CHỨC, QUẢN TRỊ VÀ KIỂM SOÁT",
+      "is_content_page": true
+    },
+    {
+      "page": 19,
+      "page_id": "p_19",
+      "char_count": 2459,
+      "chapter_detected": "V. CƠ CẤU TỔ CHỨC, QUẢN TRỊ VÀ KIỂM SOÁT",
+      "is_content_page": true
+    },
+    {
+      "page": 20,
+      "page_id": "p_20",
+      "char_count": 2608,
+      "chapter_detected": "V. CƠ CẤU TỔ CHỨC, QUẢN TRỊ VÀ KIỂM SOÁT",
+      "is_content_page": true
+    },
+    {
+      "page": 21,
+      "page_id": "p_21",
+      "char_count": 2547,
+      "chapter_detected": "V. CƠ CẤU TỔ CHỨC, QUẢN TRỊ VÀ KIỂM SOÁT",
+      "is_content_page": true
+    },
+    {
+      "page": 22,
+      "page_id": "p_22",
+      "char_count": 2624,
+      "chapter_detected": "V. CƠ CẤU TỔ CHỨC, QUẢN TRỊ VÀ KIỂM SOÁT",
+      "is_content_page": true
+    },
+    {
+      "page": 23,
+      "page_id": "p_23",
+      "char_count": 2918,
+      "chapter_detected": "V. CƠ CẤU TỔ CHỨC, QUẢN TRỊ VÀ KIỂM SOÁT",
+      "is_content_page": true
+    },
+    {
+      "page": 24,
+      "page_id": "p_24",
+      "char_count": 2589,
+      "chapter_detected": "V. CƠ CẤU TỔ CHỨC, QUẢN TRỊ VÀ KIỂM SOÁT",
+      "is_content_page": true
+    },
+    {
+      "page": 25,
+      "page_id": "p_25",
+      "char_count": 2422,
+      "chapter_detected": "VII. HỘI ĐỒNG QUẢN TRỊ",
+      "is_content_page": true
+    },
+    {
+      "page": 26,
+      "page_id": "p_26",
+      "char_count": 2346,
+      "chapter_detected": "VII. HỘI ĐỒNG QUẢN TRỊ",
+      "is_content_page": true
+    },
+    {
+      "page": 27,
+      "page_id": "p_27",
+      "char_count": 2169,
+      "chapter_detected": "VII. HỘI ĐỒNG QUẢN TRỊ",
+      "is_content_page": true
+    },
+    {
+      "page": 28,
+      "page_id": "p_28",
+      "char_count": 2402,
+      "chapter_detected": "VII. HỘI ĐỒNG QUẢN TRỊ",
+      "is_content_page": true
+    },
+    {
+      "page": 29,
+      "page_id": "p_29",
+      "char_count": 2734,
+      "chapter_detected": "VII. HỘI ĐỒNG QUẢN TRỊ",
+      "is_content_page": true
+    },
+    {
+      "page": 30,
+      "page_id": "p_30",
+      "char_count": 2647,
+      "chapter_detected": "VII. HỘI ĐỒNG QUẢN TRỊ",
+      "is_content_page": true
+    },
+    {
+      "page": 31,
+      "page_id": "p_31",
+      "char_count": 2750,
+      "chapter_detected": "VII. HỘI ĐỒNG QUẢN TRỊ",
+      "is_content_page": true
+    },
+    {
+      "page": 32,
+      "page_id": "p_32",
+      "char_count": 2503,
+      "chapter_detected": "VII. HỘI ĐỒNG QUẢN TRỊ",
+      "is_content_page": true
+    },
+    {
+      "page": 33,
+      "page_id": "p_33",
+      "char_count": 2559,
+      "chapter_detected": "VII. HỘI ĐỒNG QUẢN TRỊ",
+      "is_content_page": true
+    },
+    {
+      "page": 34,
+      "page_id": "p_34",
+      "char_count": 2399,
+      "chapter_detected": "VIII. TỔNG GIÁM ĐỐC, GIÁM ĐỐC ĐIỀU HÀNH VÀ NGƯỜI PHỤ TRÁCH",
+      "is_content_page": true
+    },
+    {
+      "page": 35,
+      "page_id": "p_35",
+      "char_count": 2326,
+      "chapter_detected": "VIII. TỔNG GIÁM ĐỐC, GIÁM ĐỐC ĐIỀU HÀNH VÀ NGƯỜI PHỤ TRÁCH",
+      "is_content_page": true
+    },
+    {
+      "page": 36,
+      "page_id": "p_36",
+      "char_count": 2121,
+      "chapter_detected": "VIII. TỔNG GIÁM ĐỐC, GIÁM ĐỐC ĐIỀU HÀNH VÀ NGƯỜI PHỤ TRÁCH",
+      "is_content_page": true
+    },
+    {
+      "page": 37,
+      "page_id": "p_37",
+      "char_count": 2593,
+      "chapter_detected": "IX. TRÁCH NHIỆM CỦA THÀNH VIÊN HỘI ĐỒNG QUẢN TRỊ, TỔNG GIÁM",
+      "is_content_page": true
+    },
+    {
+      "page": 38,
+      "page_id": "p_38",
+      "char_count": 2594,
+      "chapter_detected": "IX. TRÁCH NHIỆM CỦA THÀNH VIÊN HỘI ĐỒNG QUẢN TRỊ, TỔNG GIÁM",
+      "is_content_page": true
+    },
+    {
+      "page": 39,
+      "page_id": "p_39",
+      "char_count": 2740,
+      "chapter_detected": "IX. TRÁCH NHIỆM CỦA THÀNH VIÊN HỘI ĐỒNG QUẢN TRỊ, TỔNG GIÁM",
+      "is_content_page": true
+    },
+    {
+      "page": 40,
+      "page_id": "p_40",
+      "char_count": 2499,
+      "chapter_detected": "X. QUYỀN ĐIỀU TRA SỔ SÁCH VÀ HỒ SƠ CÔNG TY",
+      "is_content_page": true
+    },
+    {
+      "page": 41,
+      "page_id": "p_41",
+      "char_count": 2406,
+      "chapter_detected": "XII. PHÂN PHỐI LỢI NHUẬN",
+      "is_content_page": true
+    },
+    {
+      "page": 42,
+      "page_id": "p_42",
+      "char_count": 2258,
+      "chapter_detected": "XIII. TÀI KHOẢN NGÂN HÀNG, TRÍCH LẬP QUỸ, NĂM TÀI CHÍNH VÀ HỆ",
+      "is_content_page": true
+    },
+    {
+      "page": 43,
+      "page_id": "p_43",
+      "char_count": 2546,
+      "chapter_detected": "XV. KIỂM TOÁN CÔNG TY",
+      "is_content_page": true
+    },
+    {
+      "page": 44,
+      "page_id": "p_44",
+      "char_count": 2176,
+      "chapter_detected": "XVI. CON DẤU",
+      "is_content_page": true
+    },
+    {
+      "page": 45,
+      "page_id": "p_45",
+      "char_count": 2198,
+      "chapter_detected": "XVIII. GIẢI QUYẾT TRANH CHẤP NỘI BỘ",
+      "is_content_page": true
+    },
+    {
+      "page": 46,
+      "page_id": "p_46",
+      "char_count": 1567,
+      "chapter_detected": "XIX. BỔ SUNG VÀ SỬA ĐỔI ĐIỀU LỆ",
+      "is_content_page": true
+    },
+    {
+      "page": 47,
+      "page_id": "p_47",
+      "char_count": 1859,
+      "chapter_detected": "XIX. BỔ SUNG VÀ SỬA ĐỔI ĐIỀU LỆ",
+      "is_content_page": true
+    },
+    {
+      "page": 48,
+      "page_id": "p_48",
+      "char_count": 2446,
+      "chapter_detected": "XIX. BỔ SUNG VÀ SỬA ĐỔI ĐIỀU LỆ",
+      "is_content_page": true
+    },
+    {
+      "page": 49,
+      "page_id": "p_49",
+      "char_count": 2297,
+      "chapter_detected": "XIX. BỔ SUNG VÀ SỬA ĐỔI ĐIỀU LỆ",
+      "is_content_page": true
+    },
+    {
+      "page": 50,
+      "page_id": "p_50",
+      "char_count": 1393,
+      "chapter_detected": "XIX. BỔ SUNG VÀ SỬA ĐỔI ĐIỀU LỆ",
+      "is_content_page": true
+    }
+  ]
+}

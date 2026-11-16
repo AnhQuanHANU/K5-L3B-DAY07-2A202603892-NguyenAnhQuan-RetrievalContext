@@ -1,0 +1,174 @@
+[
+  {
+    "id": "q01",
+    "split": "dev",
+    "question": "Tên viết tắt của Công ty Cổ phần Sữa Việt Nam là gì?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q02",
+    "split": "dev",
+    "question": "Trụ sở chính của Vinamilk được đặt tại địa chỉ nào?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q03",
+    "split": "dev",
+    "question": "Chức danh nào là người đại diện theo pháp luật của Công ty Vinamilk?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q04",
+    "split": "dev",
+    "question": "Mệnh giá của một cổ phần của Công ty Vinamilk là bao nhiêu tiền?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q05",
+    "split": "dev",
+    "question": "Cổ đông sở hữu tỷ lệ cổ phiếu có quyền biểu quyết từ bao nhiêu phần trăm trở lên thì được coi là Cổ Đông Lớn?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q06",
+    "split": "dev",
+    "question": "Theo mô hình cơ cấu tổ chức và quản trị của Vinamilk, Ủy Ban Kiểm Toán trực thuộc cơ quan nào?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q07",
+    "split": "dev",
+    "question": "Cổ đông phổ thông của Vinamilk có nghĩa vụ tuân thủ các quy định nào của công ty?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q08",
+    "split": "dev",
+    "question": "Hội đồng quản trị phải triệu tập họp Đại hội đồng cổ đông bất thường khi nào vì lợi ích công ty?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q09",
+    "split": "dev",
+    "question": "Đại hội đồng cổ đông quyết định mức cổ tức hàng năm cho mỗi loại cổ phần dựa trên đề nghị của ai?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q10",
+    "split": "dev",
+    "question": "Người được ủy quyền tham dự Đại hội đồng cổ đông phải nộp giấy tờ gì khi đăng ký dự họp?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q11",
+    "split": "dev",
+    "question": "Cuộc họp Đại hội đồng cổ đông triệu tập lần thứ nhất được tiến hành khi có số cổ đông tham dự đại diện ít nhất bao nhiêu phần trăm tổng số cổ phần có quyền biểu quyết?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q12",
+    "split": "dev",
+    "question": "Năm tài chính của Vinamilk bắt đầu và kết thúc vào những ngày nào trong năm?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q13",
+    "split": "dev",
+    "question": "Tỷ lệ trích từ lợi nhuận sau thuế vào Quỹ khen thưởng, phúc lợi hàng năm của Vinamilk là bao nhiêu?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q14",
+    "split": "dev",
+    "question": "Theo Chương VII về Hội đồng quản trị, Hội đồng quản trị quyết định thông qua các hợp đồng, giao dịch lớn có giá trị từ bao nhiêu phần trăm tổng giá trị tài sản?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q15",
+    "split": "dev",
+    "question": "Theo Phụ lục 1 về danh mục ngành nghề, mã ngành kinh doanh chính về chế biến sữa và các sản phẩm từ sữa của Vinamilk là gì?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q16",
+    "split": "test",
+    "question": "Nếu hòa giải tranh chấp nội bộ không đạt được trong 45 ngày, bên nào cũng có thể đưa ra giải quyết tại tổ chức trọng tài nào?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q17",
+    "split": "test",
+    "question": "Điều lệ này của Công ty Vinamilk có hiệu lực thi hành kể từ ngày nào?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q18",
+    "split": "test",
+    "question": "Họ và tên của Tổng Giám đốc ký tên tại trang cuối bản Điều lệ của Công ty Vinamilk là gì?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q19",
+    "split": "test",
+    "question": "Cơ quan nào trong công ty có thẩm quyền quyết định con dấu chính thức của Vinamilk?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q20",
+    "split": "test",
+    "question": "Theo Phụ lục 1 về ngành nghề, mã ngành của hoạt động trồng cây hàng năm khác của Công ty là bao nhiêu?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q21",
+    "split": "dev",
+    "question": "Chế độ nghỉ thai sản và thời gian nghỉ dưỡng sức cho lao động nữ tại Vinamilk được hưởng tối đa bao nhiêu tháng lương?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Điều lệ Vinamilk chỉ nêu nguyên tắc chung tuân thủ luật lao động, không quy định số tháng hay mức lương thai sản cụ thể."
+  },
+  {
+    "id": "q22",
+    "split": "dev",
+    "question": "Tiêu chuẩn kỹ thuật và hạn mức tồn dư kháng sinh cho phép trong sữa tươi nguyên liệu thu mua từ các nông hộ là bao nhiêu ppm?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Điều lệ là văn bản quản trị tổ chức doanh nghiệp, không chứa quy chuẩn kỹ thuật chăn nuôi hay kiểm nghiệm vi sinh sản phẩm."
+  },
+  {
+    "id": "q23",
+    "split": "test",
+    "question": "Công thức tính hệ số thưởng Tết Nguyên Đán cho cán bộ quản lý cấp phòng của Vinamilk được quy định như thế nào?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Điều lệ chỉ quy định trích 10% lợi nhuận vào Quỹ khen thưởng phúc lợi, không quy định công thức thưởng tết chi tiết cho từng cấp bậc nhân viên."
+  },
+  {
+    "id": "q24",
+    "split": "test",
+    "question": "Lộ trình cam kết đạt mức phát thải ròng bằng 0 (Net Zero) của Vinamilk đặt mục tiêu giảm bao nhiêu phần trăm khí thải vào năm 2030?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Điều lệ doanh nghiệp không bao gồm các cam kết định lượng phát thải ròng hay mục tiêu Net Zero/ESG năm 2030."
+  }
+]
