@@ -195,6 +195,69 @@ if "messages" not in st.session_state:
         }
     ]
 
+# Helper to render transparent, detailed Agent Trace & Tool Calls
+def render_agent_trace(events: list[dict], budget: int, key_prefix: str):
+    if not events:
+        return
+    with st.expander("🛠️ Chi tiết Tool Calling & Vết thực thi của Agent (Trace)"):
+        for e_idx, e in enumerate(events):
+            event_type = e.get("event")
+            if event_type == "search":
+                query = e.get("query", "")
+                results = e.get("results", [])
+                context_ids = e.get("context_ids", [])
+                context_text = e.get("context", "")
+                ctx_len = len(context_text)
+
+                st.markdown(f"##### 🔧 Lượt gọi Tool #{e_idx + 1}: `retriever.search()`")
+                st.markdown(f"**Search Query:** `{query}`")
+
+                st.markdown("**Kết quả từ bộ tìm kiếm Hybrid RRF:**")
+                for r_idx, r in enumerate(results, start=1):
+                    cid = r.get("id", "")
+                    page = r.get("page", "?")
+                    score = r.get("score", 0.0)
+                    in_context = cid in context_ids
+                    status_text = "✅ Đã đưa vào Prompt" if in_context else f"⚠️ Bị cắt do vượt Budget ({budget} ký tự)"
+                    badge_color = "#4ade80" if in_context else "#f87171"
+                    snippet = r.get("text", "").replace("\n", " ")[:140]
+
+                    st.markdown(
+                        f"""
+                        <div style='background: #141414; border: 1px solid #262626; border-radius: 6px; padding: 8px 12px; margin-bottom: 6px;'>
+                            <div style='display: flex; justify-content: space-between; font-size: 0.8rem; margin-bottom: 4px;'>
+                                <span><b>Top {r_idx}:</b> <code>{cid}</code> (Trang {page} · Score: {score:.4f})</span>
+                                <span style='color: {badge_color}; font-weight: 500;'>{status_text}</span>
+                            </div>
+                            <div style='font-size: 0.8rem; color: #aaaaaa; font-style: italic;'>
+                                "{snippet}..."
+                            </div>
+                        </div>
+                        """,
+                        unsafe_allow_html=True,
+                    )
+
+                pct = min(100, int((ctx_len / budget) * 100)) if budget > 0 else 0
+                st.markdown(f"**📦 Ngữ cảnh đóng gói (Packed Context):** `{ctx_len:,} / {budget:,} ký tự` ({pct}% ngân sách)")
+                st.text_area(
+                    "Nội dung Context thực tế gửi cho LLM:",
+                    context_text,
+                    height=120,
+                    disabled=True,
+                    key=f"ctx_{key_prefix}_{e_idx}",
+                )
+
+            elif event_type == "answer":
+                st.markdown("##### 🎯 Quyết định của Controller: `action: answer`")
+                st.caption("LLM phát hiện đủ bằng chứng trong context và sinh câu trả lời kèm mã chunk trích dẫn.")
+            elif event_type == "invalid_or_missing_citations":
+                st.markdown("##### 🛑 Quyết định của Controller: `action: abstain`")
+                st.caption("LLM nhận diện không có bằng chứng hợp lệ trong context nên từ chối trả lời (chống hallucination).")
+            elif event_type == "search_limit":
+                st.markdown("##### ⏱️ Giới hạn tìm kiếm: `search_limit`")
+                st.caption("Agent đã chạm ngưỡng số lượt tìm kiếm tối đa.")
+
+
 # Display message history
 for msg_idx, msg in enumerate(st.session_state["messages"]):
     with st.chat_message(msg["role"]):
@@ -207,12 +270,7 @@ for msg_idx, msg in enumerate(st.session_state["messages"]):
             st_text = "Đã trả lời có căn cứ" if msg["status"] == "answered" else "Từ chối (Không đủ bằng chứng)"
             st.markdown(f"<span class='{st_class}'>{st_text}</span>", unsafe_allow_html=True)
         if msg.get("events"):
-            with st.expander("🔎 Chi tiết tra cứu (Trace & Context)"):
-                for e_idx, e in enumerate(msg["events"]):
-                    if e.get("event") == "search":
-                        st.markdown(f"**Query:** `{e.get('query')}`")
-                        st.markdown(f"**Context IDs:** `{e.get('context_ids')}`")
-                        st.text_area("Packed Context", e.get("context", ""), height=150, disabled=True, key=f"ctx_hist_{msg_idx}_{e_idx}")
+            render_agent_trace(msg["events"], budget, f"hist_{msg_idx}")
 
 # Handle query from input box or sample buttons
 user_query = st.chat_input("Nhập câu hỏi của bạn về Điều lệ Vinamilk...")
@@ -255,12 +313,7 @@ if user_query:
 
         cur_idx = len(st.session_state["messages"])
         if events:
-            with st.expander("🔎 Chi tiết tra cứu (Trace & Context)"):
-                for e_idx, e in enumerate(events):
-                    if e.get("event") == "search":
-                        st.markdown(f"**Query:** `{e.get('query')}`")
-                        st.markdown(f"**Context IDs:** `{e.get('context_ids')}`")
-                        st.text_area("Packed Context", e.get("context", ""), height=150, disabled=True, key=f"ctx_cur_{cur_idx}_{e_idx}")
+            render_agent_trace(events, budget, f"cur_{cur_idx}")
 
         # Save to history
         st.session_state["messages"].append({
