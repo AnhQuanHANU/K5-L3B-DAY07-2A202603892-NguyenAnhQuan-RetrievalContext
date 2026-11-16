@@ -13,3 +13,4 @@
   3. Hybrid Retrieval (Dense + TF-IDF với Reciprocal Rank Fusion RRF $k=60$)
 - **Cải thiện cấu hình:** Tăng Context Budget từ 800 lên 1500 ký tự (nâng `Context Evidence Rate` từ 0% lên 66.7%).
 - **Kết quả Agent trên Test:** 100% Tool use, 100% Citation validity, 100% Abstention trên câu không có bằng chứng.
+

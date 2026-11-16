@@ -54,3 +54,4 @@ def setup_store(storage_path="./data/qdrant_db", collection_name="strategy_c"):
 
 if __name__ == "__main__":
     setup_store()
+
